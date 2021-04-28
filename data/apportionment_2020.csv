@@ -7,7 +7,7 @@
 "Colorado","CO",2020,5782171,8
 "Connecticut","CT",2020,3608298,5
 "Delaware","DE",2020,990837,1
-"District of Columbia","DC",2020,689545,NA
+"District of Columbia","DC",2020,689545,0
 "Florida","FL",2020,21570527,28
 "Georgia","GA",2020,10725274,14
 "Hawaii","HI",2020,1460137,2
@@ -38,7 +38,7 @@
 "Oklahoma","OK",2020,3963516,5
 "Oregon","OR",2020,4241500,6
 "Pennsylvania","PA",2020,13011844,17
-"Puerto Rico","PR",2020,3285874,NA
+"Puerto Rico","PR",2020,3285874,0
 "Rhode Island","RI",2020,1098163,2
 "South Carolina","SC",2020,5124712,7
 "South Dakota","SD",2020,887770,1

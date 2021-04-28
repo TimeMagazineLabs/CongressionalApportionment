@@ -7,7 +7,7 @@
 "Colorado","CO",2010,5029196,7
 "Connecticut","CT",2010,3574097,5
 "Delaware","DE",2010,897934,1
-"District of Columbia","DC",2010,601723,NA
+"District of Columbia","DC",2010,601723,0
 "Florida","FL",2010,18801310,27
 "Georgia","GA",2010,9687653,14
 "Hawaii","HI",2010,1360301,2
@@ -38,7 +38,7 @@
 "Oklahoma","OK",2010,3751351,5
 "Oregon","OR",2010,3831074,5
 "Pennsylvania","PA",2010,12702379,18
-"Puerto Rico","PR",2010,3725789,NA
+"Puerto Rico","PR",2010,3725789,0
 "Rhode Island","RI",2010,1052567,2
 "South Carolina","SC",2010,4625364,7
 "South Dakota","SD",2010,814180,1
